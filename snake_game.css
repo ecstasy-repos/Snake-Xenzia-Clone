@@ -1,0 +1,93 @@
+#sp{
+	font-size: 70px;
+}
+#up{
+	font-size: 60px;
+}
+#bottom{
+	font-size: 60px;
+}
+#left{
+	font-size: 60px;
+}
+#right{
+	font-size: 60px;
+}
+#body{
+	background: #598765;
+	zoom: 50%;
+}
+#h1{
+	font-family: 'Metal Mania', cursive;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	background: steelblue;
+	margin: 0;
+	text-transform: uppercase; 
+	padding: 20px 0;
+}
+
+#note{
+	text-align: center;
+	color: #e65117;
+	font-size: 40px;
+
+}
+
+#playarea{
+    padding: 0;
+    background-image: url("back.jpg");
+    margin: auto;
+    margin-top: 60px;
+    display: block;
+    width: 1000px;
+    height: 1000px;
+    border: 10px solid #223d29;
+}
+#strip{
+	font-size: 40px;
+	background: white;
+	height: 70px;
+	text-align: center;
+}
+#full,#playnow{
+	float: right;
+	font-size: 45px;
+	margin-bottom: 5px;
+	margin-right: 20px;
+}
+#decision
+{
+	text-align: center;
+	margin: 0 ;
+	color: black;
+	font-size: 35px;
+	text-align: center;
+	display: inline-block;
+	width: 10%;
+}
+#button,#score{
+	margin: auto;
+	border: none;
+	background: none;
+	height: 100%;
+	color: steelblue;
+	font-size: inherit;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+#button:hover
+{
+	color: white;
+	background: steelblue;
+}
+
+#score{
+	margin: auto;
+	display: inline-block;
+	width: 15%;
+	border:none;
+	background: none;
+	height: 100%;
+}
